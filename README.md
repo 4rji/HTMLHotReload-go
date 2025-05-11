@@ -31,7 +31,7 @@ go mod tidy
 3. **Build the binary:**
 
 ```bash
-go build -o livego main.go
+go build -o liveserver main.go
 ```
 
 ---
