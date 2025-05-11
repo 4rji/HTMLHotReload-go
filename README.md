@@ -18,8 +18,8 @@ Lightweight live-reload tool written in Go. It opens a local HTML file in Chromi
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/yourusername/golivereload.git
-cd golivereload
+git clone https://github.com/4rji/HTMLHotReload-go.git
+cd HTMLHotReload-go
 ```
 
 2. **Initialize Go module and install dependencies:**
